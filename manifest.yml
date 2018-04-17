@@ -1,6 +1,6 @@
 ---
 applications:
   - name: Jenkins-demo
-    host: pyang
+    host: Jenkins-demo
     memory: 1G
     path: target/Jenkins-demo-0.0.1-SNAPSHOT.jar
