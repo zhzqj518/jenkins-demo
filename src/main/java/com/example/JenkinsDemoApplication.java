@@ -12,7 +12,7 @@ public class JenkinsDemoApplication {
         @RequestMapping("/")
         public String hello()
         {
-            return "Hello World HAHAHHAHA!!!!";
+            return "Hello World HAHAHHAHAHA!!!!";
         }
 
 	public static void main(String[] args) {
